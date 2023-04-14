@@ -1,0 +1,11 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine (Java)/task/build/
+/Coffee Machine (Java)/task/out/
+/Coffee Machine (Java)/task/out/production/classes/
+/Topics/Multidimensional array/Indexing rules/out/
+/Topics/Multidimensional array/Indexing rules/out/production/classes/
+/Topics/Objects/Null or not/out/
+/Topics/Objects/Null or not/out/production/classes/
+/Topics/Static members/Detail manufacturing/out/
+/Topics/Static members/Detail manufacturing/out/production/classes/
